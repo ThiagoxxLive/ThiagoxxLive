@@ -2,7 +2,7 @@
 
 Software Developer at **Nasajon**.
 
-Actually, working with back-end engineering.
+Actually, working with back-end engineering and software architecture.
 
 Get int touch:
 
