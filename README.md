@@ -1,6 +1,6 @@
 ## **Thiago Marcondes**
 
-Software Developer at [**Nasajon**](https://link-url-here.org).
+Software Developer at **[Nasajon](https://link-url-here.org)**.
 
 Actually working with back-end engineering and software architecture.
 
