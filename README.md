@@ -1,6 +1,6 @@
 ## **Thiago Marcondes**
 
-Software Developer at **[Nasajon](https://nasajon.com.br)**.
+Software Engineer at **[Nasajon](https://nasajon.com.br)**.
 
 Actually working with back-end engineering and software architecture.
 
