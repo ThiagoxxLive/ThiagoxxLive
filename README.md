@@ -2,7 +2,7 @@
 
 Software Engineer at **[Nasajon](https://nasajon.com.br)**.
 
-Actually working with back-end engineering and software architecture.
+At the moment, working with back-end engineering and software architecture.
 
 Get in touch:
 
