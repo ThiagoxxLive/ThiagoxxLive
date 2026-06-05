@@ -1,6 +1,6 @@
 ## **Thiago Marcondes**
 
-Software Engineer at **[Nasajon](https://nasajon.com.br)**.
+Software Engineer at **[Nasajon](https://nasajon.com.br)**. <br>
 Software Architect at **[Zeum](https://zeum.com.br)**.
 
 At the moment, working with back-end engineering and software architecture.
